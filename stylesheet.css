@@ -232,7 +232,9 @@ footer {
   .header-right {
     display: none;
   }
-
+  .container h1{
+    text-aligm:center;
+  }
   .menu-icon {
     display: block;
   }
